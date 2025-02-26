@@ -1,16 +1,14 @@
-## Hi there 👋
+## AUHMAUGMAUFM 😾👋
 
-<!--
-**auhmaugmaufm/auhmaugmaufm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auhmaugmaufm&layout=compact" alt="Top Langs">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/385fb5a2-5cb7-40e2-975a-e5190ffb7b0e" width="200">
+    </td>
+  </tr>
+ </table> -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Uploading 3e06f5d4cc4118323c998aad47a95b02.gif…]()
