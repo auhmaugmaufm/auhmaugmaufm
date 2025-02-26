@@ -11,4 +11,4 @@
   </tr>
  </table> -->
 
-![Uploading 3e06f5d4cc4118323c998aad47a95b02.gif…]()
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
